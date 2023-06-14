@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "6446bc540b61c36f02c84cd2",
+    "trainerName": "Akio",
+    "team": [
+      {
+        "name": "{\"name\":\"squirtle\",\"types\":[\"water\"],\"stats\":[{\"statName\":\"hp\",\"value\":44},{\"statName\":\"attack\",\"value\":48},{\"statName\":\"defense\",\"value\":65},{\"statName\":\"special-attack\",\"value\":50},{\"statName\":\"special-defense\",\"value\":64},{\"statName\":\"speed\",\"value\":43}],\"dex\":7,\"height\":5,\"weight\":90,\"moves\":[{\"moves\":\"dive\"},{\"moves\":\"surf\"},{\"moves\":\"rage\"},{\"moves\":\"bubble\"}],\"_id\":\"644671b284f08d648b184624\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.455Z\",\"updatedAt\":\"2023-04-24T12:10:26.455Z\"}",
+        "_id": "6446bc540b61c36f02c84cd3"
+      },
+      {
+        "name": "{\"name\":\"bulbasaur\",\"types\":[\"grass\",\"poison\"],\"stats\":[{\"statName\":\"hp\",\"value\":45},{\"statName\":\"attack\",\"value\":49},{\"statName\":\"defense\",\"value\":49},{\"statName\":\"special-attack\",\"value\":65},{\"statName\":\"special-defense\",\"value\":65},{\"statName\":\"speed\",\"value\":45}],\"dex\":1,\"height\":7,\"weight\":69,\"moves\":[{\"moves\":\"string-shot\"},{\"moves\":\"sleep-talk\"},{\"moves\":\"headbutt\"},{\"moves\":\"solar-beam\"}],\"_id\":\"644671b284f08d648b1845ec\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.333Z\",\"updatedAt\":\"2023-04-24T12:10:26.333Z\"}",
+        "_id": "6446bc540b61c36f02c84cd4"
+      },
+      {
+        "name": "{\"name\":\"charizard\",\"types\":[\"fire\",\"flying\"],\"stats\":[{\"statName\":\"hp\",\"value\":78},{\"statName\":\"attack\",\"value\":84},{\"statName\":\"defense\",\"value\":78},{\"statName\":\"special-attack\",\"value\":109},{\"statName\":\"special-defense\",\"value\":85},{\"statName\":\"speed\",\"value\":100}],\"dex\":6,\"height\":17,\"weight\":905,\"moves\":[{\"moves\":\"dragon-claw\"},{\"moves\":\"take-down\"},{\"moves\":\"roar\"},{\"moves\":\"scratch\"}],\"_id\":\"644671b284f08d648b18468e\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.704Z\",\"updatedAt\":\"2023-04-24T12:10:26.704Z\"}",
+        "_id": "6446bc540b61c36f02c84cd5"
+      },
+      {
+        "name": "{\"name\":\"mew\",\"types\":[\"psychic\"],\"stats\":[{\"statName\":\"hp\",\"value\":100},{\"statName\":\"attack\",\"value\":100},{\"statName\":\"defense\",\"value\":100},{\"statName\":\"special-attack\",\"value\":100},{\"statName\":\"special-defense\",\"value\":100},{\"statName\":\"speed\",\"value\":100}],\"dex\":151,\"height\":4,\"weight\":40,\"moves\":[{\"moves\":\"drill-run\"},{\"moves\":\"fire-fang\"},{\"moves\":\"air-slash\"},{\"moves\":\"stone-edge\"}],\"_id\":\"644671b284f08d648b1846ae\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.806Z\",\"updatedAt\":\"2023-04-24T12:10:26.806Z\"}",
+        "_id": "6446bc540b61c36f02c84cd6"
+      },
+      {
+        "name": "{\"name\":\"rattata\",\"types\":[\"normal\"],\"stats\":[{\"statName\":\"hp\",\"value\":30},{\"statName\":\"attack\",\"value\":56},{\"statName\":\"defense\",\"value\":35},{\"statName\":\"special-attack\",\"value\":25},{\"statName\":\"special-defense\",\"value\":35},{\"statName\":\"speed\",\"value\":72}],\"dex\":19,\"height\":3,\"weight\":35,\"moves\":[{\"moves\":\"revenge\"},{\"moves\":\"pluck\"},{\"moves\":\"wild-charge\"},{\"moves\":\"secret-power\"}],\"_id\":\"644671b284f08d648b1845f2\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.345Z\",\"updatedAt\":\"2023-04-24T12:10:26.345Z\"}",
+        "_id": "6446bc540b61c36f02c84cd7"
+      },
+      {
+        "name": "{\"name\":\"pikachu\",\"types\":[\"electric\"],\"stats\":[{\"statName\":\"hp\",\"value\":35},{\"statName\":\"attack\",\"value\":55},{\"statName\":\"defense\",\"value\":40},{\"statName\":\"special-attack\",\"value\":50},{\"statName\":\"special-defense\",\"value\":50},{\"statName\":\"speed\",\"value\":90}],\"dex\":25,\"height\":4,\"weight\":60,\"moves\":[{\"moves\":\"take-down\"},{\"moves\":\"rock-smash\"},{\"moves\":\"uproar\"},{\"moves\":\"natural-gift\"}],\"_id\":\"644671b284f08d648b184650\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.553Z\",\"updatedAt\":\"2023-04-24T12:10:26.553Z\"}",
+        "_id": "6446bc540b61c36f02c84cd8"
+      }
+    ],
+    "createdAt": "2023-04-24T17:28:52.179Z",
+    "updatedAt": "2023-04-24T17:28:52.179Z",
+    "__v": 0
+  },
+  {
+    "_id": "6447b466a448faa531095468",
+    "trainerName": "Andrei",
+    "team": [
+      {
+        "name": "{\"name\":\"weedle\",\"types\":[\"bug\",\"poison\"],\"stats\":[{\"statName\":\"hp\",\"value\":40},{\"statName\":\"attack\",\"value\":35},{\"statName\":\"defense\",\"value\":30},{\"statName\":\"special-attack\",\"value\":20},{\"statName\":\"special-defense\",\"value\":20},{\"statName\":\"speed\",\"value\":50}],\"dex\":13,\"height\":3,\"weight\":32,\"moves\":[{\"moves\":\"poison-sting\"},{\"moves\":\"string-shot\"},{\"moves\":\"bug-bite\"},{\"moves\":\"electroweb\"}],\"_id\":\"644671b184f08d648b184586\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:25.965Z\",\"updatedAt\":\"2023-04-24T12:10:25.965Z\"}",
+        "_id": "6447c28b4b27f6f684b06292"
+      },
+      {
+        "name": "{\"name\":\"raichu\",\"types\":[\"electric\"],\"stats\":[{\"statName\":\"hp\",\"value\":60},{\"statName\":\"attack\",\"value\":90},{\"statName\":\"defense\",\"value\":55},{\"statName\":\"special-attack\",\"value\":90},{\"statName\":\"special-defense\",\"value\":80},{\"statName\":\"speed\",\"value\":110}],\"dex\":26,\"height\":8,\"weight\":300,\"moves\":[{\"moves\":\"brick-break\"},{\"moves\":\"safeguard\"},{\"moves\":\"nuzzle\"},{\"moves\":\"fling\"}],\"_id\":\"644671b284f08d648b1845ca\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.253Z\",\"updatedAt\":\"2023-04-24T12:10:26.253Z\"}",
+        "_id": "6447c28b4b27f6f684b06293"
+      },
+      {
+        "name": "{\"name\":\"blastoise\",\"types\":[\"water\"],\"stats\":[{\"statName\":\"hp\",\"value\":79},{\"statName\":\"attack\",\"value\":83},{\"statName\":\"defense\",\"value\":100},{\"statName\":\"special-attack\",\"value\":85},{\"statName\":\"special-defense\",\"value\":105},{\"statName\":\"speed\",\"value\":78}],\"dex\":9,\"height\":16,\"weight\":855,\"moves\":[{\"moves\":\"avalanche\"},{\"moves\":\"tail-whip\"},{\"moves\":\"iron-tail\"},{\"moves\":\"rock-slide\"}],\"_id\":\"644671b284f08d648b18465c\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.584Z\",\"updatedAt\":\"2023-04-24T12:10:26.584Z\"}",
+        "_id": "6447c28b4b27f6f684b06294"
+      },
+      {
+        "name": "{\"name\":\"alakazam\",\"types\":[\"psychic\"],\"stats\":[{\"statName\":\"hp\",\"value\":55},{\"statName\":\"attack\",\"value\":50},{\"statName\":\"defense\",\"value\":45},{\"statName\":\"special-attack\",\"value\":135},{\"statName\":\"special-defense\",\"value\":95},{\"statName\":\"speed\",\"value\":120}],\"dex\":65,\"height\":15,\"weight\":480,\"moves\":[{\"moves\":\"skill-swap\"},{\"moves\":\"sunny-day\"},{\"moves\":\"natural-gift\"},{\"moves\":\"taunt\"}],\"_id\":\"644671b284f08d648b184684\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.671Z\",\"updatedAt\":\"2023-04-24T12:10:26.671Z\"}",
+        "_id": "6447c28b4b27f6f684b06295"
+      },
+      {
+        "name": "{\"name\":\"charmander\",\"types\":[\"fire\"],\"stats\":[{\"statName\":\"hp\",\"value\":39},{\"statName\":\"attack\",\"value\":52},{\"statName\":\"defense\",\"value\":43},{\"statName\":\"special-attack\",\"value\":60},{\"statName\":\"special-defense\",\"value\":50},{\"statName\":\"speed\",\"value\":65}],\"dex\":4,\"height\":6,\"weight\":85,\"moves\":[{\"moves\":\"dragon-pulse\"},{\"moves\":\"dragon-rage\"},{\"moves\":\"attract\"},{\"moves\":\"outrage\"}],\"_id\":\"644671b284f08d648b18465a\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.582Z\",\"updatedAt\":\"2023-04-24T12:10:26.582Z\"}",
+        "_id": "6447c28b4b27f6f684b06296"
+      },
+      {
+        "name": "{\"name\":\"arbok\",\"types\":[\"poison\"],\"stats\":[{\"statName\":\"hp\",\"value\":60},{\"statName\":\"attack\",\"value\":95},{\"statName\":\"defense\",\"value\":69},{\"statName\":\"special-attack\",\"value\":65},{\"statName\":\"special-defense\",\"value\":79},{\"statName\":\"speed\",\"value\":80}],\"dex\":24,\"height\":35,\"weight\":650,\"moves\":[{\"moves\":\"leer\"},{\"moves\":\"secret-power\"},{\"moves\":\"hyper-beam\"},{\"moves\":\"swagger\"}],\"_id\":\"644671b284f08d648b1845c6\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.246Z\",\"updatedAt\":\"2023-04-24T12:10:26.246Z\"}",
+        "_id": "6447c28b4b27f6f684b06297"
+      }
+    ],
+    "createdAt": "2023-04-25T11:07:18.087Z",
+    "updatedAt": "2023-04-25T12:07:39.639Z",
+    "__v": 0
+  },
+  {
+    "_id": "6447c3517facf30fd2c81086",
+    "trainerName": "Matera",
+    "team": [
+      {
+        "name": "{\"name\":\"squirtle\",\"types\":[\"water\"],\"stats\":[{\"statName\":\"hp\",\"value\":44},{\"statName\":\"attack\",\"value\":48},{\"statName\":\"defense\",\"value\":65},{\"statName\":\"special-attack\",\"value\":50},{\"statName\":\"special-defense\",\"value\":64},{\"statName\":\"speed\",\"value\":43}],\"dex\":7,\"height\":5,\"weight\":90,\"moves\":[{\"moves\":\"dive\"},{\"moves\":\"surf\"},{\"moves\":\"rage\"},{\"moves\":\"bubble\"}],\"_id\":\"644671b284f08d648b184624\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.455Z\",\"updatedAt\":\"2023-04-24T12:10:26.455Z\"}",
+        "_id": "6447c3517facf30fd2c81087"
+      },
+      {
+        "name": "{\"name\":\"bulbasaur\",\"types\":[\"grass\",\"poison\"],\"stats\":[{\"statName\":\"hp\",\"value\":45},{\"statName\":\"attack\",\"value\":49},{\"statName\":\"defense\",\"value\":49},{\"statName\":\"special-attack\",\"value\":65},{\"statName\":\"special-defense\",\"value\":65},{\"statName\":\"speed\",\"value\":45}],\"dex\":1,\"height\":7,\"weight\":69,\"moves\":[{\"moves\":\"string-shot\"},{\"moves\":\"sleep-talk\"},{\"moves\":\"headbutt\"},{\"moves\":\"solar-beam\"}],\"_id\":\"644671b284f08d648b1845ec\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.333Z\",\"updatedAt\":\"2023-04-24T12:10:26.333Z\"}",
+        "_id": "6447c3517facf30fd2c81088"
+      },
+      {
+        "name": "{\"name\":\"charizard\",\"types\":[\"fire\",\"flying\"],\"stats\":[{\"statName\":\"hp\",\"value\":78},{\"statName\":\"attack\",\"value\":84},{\"statName\":\"defense\",\"value\":78},{\"statName\":\"special-attack\",\"value\":109},{\"statName\":\"special-defense\",\"value\":85},{\"statName\":\"speed\",\"value\":100}],\"dex\":6,\"height\":17,\"weight\":905,\"moves\":[{\"moves\":\"dragon-claw\"},{\"moves\":\"take-down\"},{\"moves\":\"roar\"},{\"moves\":\"scratch\"}],\"_id\":\"644671b284f08d648b18468e\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.704Z\",\"updatedAt\":\"2023-04-24T12:10:26.704Z\"}",
+        "_id": "6447c3517facf30fd2c81089"
+      },
+      {
+        "name": "{\"name\":\"mew\",\"types\":[\"psychic\"],\"stats\":[{\"statName\":\"hp\",\"value\":100},{\"statName\":\"attack\",\"value\":100},{\"statName\":\"defense\",\"value\":100},{\"statName\":\"special-attack\",\"value\":100},{\"statName\":\"special-defense\",\"value\":100},{\"statName\":\"speed\",\"value\":100}],\"dex\":151,\"height\":4,\"weight\":40,\"moves\":[{\"moves\":\"drill-run\"},{\"moves\":\"fire-fang\"},{\"moves\":\"air-slash\"},{\"moves\":\"stone-edge\"}],\"_id\":\"644671b284f08d648b1846ae\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.806Z\",\"updatedAt\":\"2023-04-24T12:10:26.806Z\"}",
+        "_id": "6447c3517facf30fd2c8108a"
+      },
+      {
+        "name": "ratata",
+        "_id": "6447c3517facf30fd2c8108b"
+      },
+      {
+        "name": "{\"name\":\"pikachu\",\"types\":[\"electric\"],\"stats\":[{\"statName\":\"hp\",\"value\":35},{\"statName\":\"attack\",\"value\":55},{\"statName\":\"defense\",\"value\":40},{\"statName\":\"special-attack\",\"value\":50},{\"statName\":\"special-defense\",\"value\":50},{\"statName\":\"speed\",\"value\":90}],\"dex\":25,\"height\":4,\"weight\":60,\"moves\":[{\"moves\":\"take-down\"},{\"moves\":\"rock-smash\"},{\"moves\":\"uproar\"},{\"moves\":\"natural-gift\"}],\"_id\":\"644671b284f08d648b184650\",\"__v\":0,\"createdAt\":\"2023-04-24T12:10:26.553Z\",\"updatedAt\":\"2023-04-24T12:10:26.553Z\"}",
+        "_id": "6447c3517facf30fd2c8108c"
+      }
+    ],
+    "createdAt": "2023-04-25T12:10:57.503Z",
+    "updatedAt": "2023-04-25T12:10:57.503Z",
+    "__v": 0
+  }
+]
